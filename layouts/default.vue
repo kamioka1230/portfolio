@@ -45,7 +45,11 @@ a {
   position: fixed;
   width: 100%;
   height: 100%;
-  background: url("../profile.jpg");
+  background-image: url("../main_20190731.jpg");
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -ms-background-size: cover;
+  -o-background-size: cover;
   background-size: cover;
   z-index: -10;
 }
@@ -55,6 +59,6 @@ a {
   top: 0;
   width: 100%;
   height: 100%;
-  background: rgba(0, 0, 0, .95);
+  background: rgba(0, 0, 0, .93);
 }
 </style>
