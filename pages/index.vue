@@ -14,7 +14,7 @@
   padding-top: 35vh;
 }
 .main span {
-  font-size: 28px;
+  font-size: 2.8rem;
   font-weight: 700;
 }
 </style>

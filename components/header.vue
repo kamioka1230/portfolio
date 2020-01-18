@@ -16,6 +16,7 @@
 nav {
   width: 100%;
   display: block;
+  font-size: 1.6rem;
 }
 nav .menu {
   float: right;
