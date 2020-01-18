@@ -15,15 +15,15 @@
   margin: 0 auto;
 }
 h2 {
-  font-size: 18px;
+  font-size: 1.8rem;
   margin-bottom: 0;
 }
 p {
-  font-size: 14px;
+  font-size: 1.4rem;
   margin-top: 2px;
 }
 p .tech {
-  font-size: 12px;
+  font-size: 1.2rem;
   font-style: italic;
 }
 </style>

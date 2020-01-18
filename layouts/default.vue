@@ -26,6 +26,7 @@ html {
   padding: 0;
   overflow: hidden;
   font-size: 62.5%;
+  font-family: Quicksand,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji;
 }
 body {
   width: 100vw;
@@ -33,6 +34,7 @@ body {
   margin: 0;
   padding: 0;
   color: rgba(255, 255, 255, .7);
+  font-size: 1.6rem;
 }
 a {
   color: inherit;
