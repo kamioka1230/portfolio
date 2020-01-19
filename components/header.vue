@@ -2,10 +2,8 @@
   <nav>
     <div class="menu">
       <ul>
-        <li><a href="/">home</a></li>
-        <li><a href="/about/">about</a></li>
-        <li><a href="/works/">works</a></li>
-        <!--<li><a href="/contact/">contact</a></li>-->
+        <li><nuxt-link to="/">home</nuxt-link></li>
+        <li><nuxt-link to="/works/">works</nuxt-link></li>
       </ul>
     </div>
     <div class="clearfix"></div>
