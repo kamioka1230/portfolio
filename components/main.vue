@@ -4,16 +4,9 @@
 
       <section class="mt-5 wow fadeIn" id="about">
         <div class="row">
-          <div class="col-md-6 mb-4">
-            <img src="https://mdbootstrap.com/img/Marketing/mdb-press-pack/mdb-main.jpg" class="img-fluid z-depth-1-half" alt="">
-          </div>
-
-          <div class="col-md-6 mb-4">
-
-            <h3 class="h3 mb-3">About Me</h3>
-              <p>Hi I'm Yd.</p>
-              <hr>
-              <p>I am a developer at Japanese company.</p>
+          <div class="col-md-12 mb-4">
+            <h3 class="h3 mb-3 text-center">About Me</h3>
+              <p style="text-align:center">Hi I'm Yd.<br><br>I am a developer at Japanese company.</p>
           </div>
         </div>
       </section>
@@ -57,7 +50,7 @@
               <div class="col-10">
                 <h5 class="feature-title">Movie List Viewer</h5>
                 <p class="grey-text">
-                  Displaying my favorite movie's posters. It was built by me using <strong>Django and Vue, and OMDB API</strong>.
+                  Displaying my favorite movie's posters. It was built by me using <strong>Django</strong> and <strong>Vue</strong>, and <strong>OMDB API</strong>.
                   [<a href="/movies">demo</a>]
                 </p>
               </div>
@@ -82,9 +75,9 @@
                 <i class="fas fa-check-circle fa-2x indigo-text"></i>
               </div>
               <div class="col-10">
-                <h6 class="feature-title">Java/ Struts2/ SpringBoot</h6>
+                <h6 class="feature-title">Java</h6>
                 <p class="grey-text">
-                  3+ years of experiences of Java8. I used Java for main language at my company, using Struts2 and SpringBoot project.
+                  3+ years of experiences of <strong>Java8</strong>. I used Java for main language at my company, using <strong>Struts2</strong> and <strong>SpringBoot</strong> project.
                 </p>
                 <div style="height:15px"></div>
               </div>
@@ -95,10 +88,11 @@
                 <i class="fas fa-check-circle fa-2x indigo-text"></i>
               </div>
               <div class="col-10">
-                <h6 class="feature-title">Python / Django</h6>
+                <h6 class="feature-title">Python</h6>
                 <p class="grey-text">
-                  4+ years of experiences of Python2.7 and 2+ years of Python3.5.
+                  4+ years of experiences of <strong>Python2.7</strong> and 2+ years of <strong>Python3.5</strong>.
                   I used Python2.x for Natural Language Processing, and Python3.x for some automations.
+                  Recently I like to create applications with <strong>Django</strong>.
                 </p>
                 <div style="height:15px"></div>
               </div>
@@ -112,7 +106,7 @@
                 <h6 class="feature-title">JavaScript</h6>
                 <p class="grey-text">
                   3+ years of experiences for system front-end.
-                  And I learned personally for modern frameworks such as Vue, React.
+                  And I learned personally for modern frameworks such as <strong>Vue</strong>, <strong>React</strong>.
                 </p>
                 <div style="height:15px"></div>
               </div>
@@ -123,9 +117,10 @@
                 <i class="fas fa-check-circle fa-2x indigo-text"></i>
               </div>
               <div class="col-10">
-                <h6 class="feature-title">Vue.js / Nuxt.js</h6>
+                <h6 class="feature-title">Vue.js</h6>
                 <p class="grey-text">
-                  1+ years of experieces for my personal things.
+                  I've created a controll panel for internal system with <strong>Vue.js</strong>.
+                  And this page was built with <strong>Nuxt.js</strong>.
                 </p>
                 <div style="height:15px"></div>
               </div>
@@ -138,9 +133,10 @@
                 <i class="fas fa-check-circle fa-2x indigo-text"></i>
               </div>
               <div class="col-10">
-                <h6 class="feature-title">MySQL / PostgreSQL </h6>
+                <h6 class="feature-title">Database</h6>
                 <p class="grey-text">
-                  3+ years of experiences for the dictionary system and managing members.
+                  Managed huge dictionary entries with <strong>PostgreSQL</strong>,
+                  and member and their oneline wordbooks with <strong>MySQL</strong>.
                 </p>
                 <div style="height:15px"></div>
               </div>
@@ -153,7 +149,7 @@
               <div class="col-10">
                 <h6 class="feature-title">Ruby</h6>
                 <p class="grey-text">
-                  For Ruby on Rails, I just finished the official tutorial.
+                  For <strong>Ruby on Rails</strong>, I just finished the official tutorial.
                 </p>
                 <div style="height:15px"></div>
               </div>
@@ -164,10 +160,10 @@
                 <i class="fas fa-check-circle fa-2x indigo-text"></i>
               </div>
               <div class="col-10">
-                <h6 class="feature-title">Apache Tomcat / Nginx</h6>
+                <h6 class="feature-title">Server</h6>
                 <p class="grey-text">
-                  4+ years experience of Tomcat as company's main server.
-                  And for my personal server I learned Nginx on Amazon Light Sail.
+                  4+ years experience of <strong>Tomcat</strong> as company's main server.
+                  And for my personal server I learned <strong>Nginx</strong> on Amazon Light Sail.
                 </p>
                 <div style="height:15px"></div>
               </div>
@@ -193,9 +189,9 @@
                 <i class="fab fa-firefox fa-2x mb-1 indigo-text" aria-hidden="true"></i>
               </div>
               <div class="col-10 mb-2 pl-3">
-                <h5 class="feature-title font-bold mb-1">Version Control / Git</h5>
+                <h5 class="feature-title font-bold mb-1">Version Control</h5>
                 <p class="grey-text mt-2">
-                  Daily use of GitHub for team developing. Additinary I also use Bitbucket for my Netlify project.
+                  Daily use of <strong>GitHub</strong> for team developing. Additinary I also use Bitbucket for my Netlify project.
                 </p>
               </div>
             </div>
@@ -207,9 +203,9 @@
                 <i class="fas fa-level-up-alt fa-2x mb-1 indigo-text" aria-hidden="true"></i>
               </div>
               <div class="col-10 mb-2">
-                <h5 class="feature-title font-bold mb-1">Continuous Integration / Jenkins</h5>
+                <h5 class="feature-title font-bold mb-1">Continuous Integration</h5>
                 <p class="grey-text mt-2">
-                  For deploying product from local to development, staging, and production server, I used Jenkins as CI.
+                  For deploying product from local to development, staging, and production server, I used <strong>Jenkins</strong> as CI.
                 </p>
               </div>
             </div>
@@ -221,9 +217,9 @@
                 <i class="fas fa-comments fa-2x mb-1 indigo-text" aria-hidden="true"></i>
               </div>
               <div class="col-10 mb-2">
-                <h5 class="feature-title font-bold mb-1">Tickets / Backlog / redmine</h5>
+                <h5 class="feature-title font-bold mb-1">Task Management</h5>
                 <p class="grey-text mt-2">
-                  I used Backlog and redmine as task management (and sometimes used Trello too).
+                  I used <strong>Backlog</strong> and <strong>redmine</strong> as task management (and sometimes used Trello too).
                 </p>
               </div>
             </div>
@@ -235,7 +231,7 @@
                 <i class="fas fa-code fa-2x mb-1 indigo-text" aria-hidden="true"></i>
               </div>
               <div class="col-10 mb-2">
-                <h5 class="feature-title font-bold mb-1">Markup / HTML / CSS</h5>
+                <h5 class="feature-title font-bold mb-1">HTML / CSS</h5>
                 <p class="grey-text mt-2">
                   I can use HTML5 and CSS3 for marking up the website ofcource.
                 </p>
@@ -253,10 +249,10 @@
                 <i class="fas fa-cubes fa-2x mb-1 indigo-text" aria-hidden="true"></i>
               </div>
               <div class="col-10 mb-2">
-                <h5 class="feature-title font-bold mb-1">Language / JP / EN</h5>
-                <p class="grey-text mt-2">Material Design for Bootstrap comes with both, compiled, ready to use
-                  libraries including all features as
-                  well as modules for CSS (SASS files) and JS.</p>
+                <h5 class="feature-title font-bold mb-1">Language</h5>
+                <p class="grey-text mt-2">
+                  Japananese native. Also can speak basic English.
+                </p>
               </div>
             </div>
           </div>
@@ -267,10 +263,8 @@
                 <i class="fas fa-question fa-2x mb-1 indigo-text" aria-hidden="true"></i>
               </div>
               <div class="col-10 mb-2">
-                <h5 class="feature-title font-bold mb-1">SEO</h5>
-                <p class="grey-text mt-2">We care about reliability. If you have any questions - do not hesitate to
-                  contact us.
-                </p>
+                <h5 class="feature-title font-bold mb-1">Research</h5>
+                <p class="grey-text mt-2">I learned about Natural Language Processing and wrote papers about corpus research.</p>
               </div>
             </div>
           </div>
@@ -282,7 +276,9 @@
               </div>
               <div class="col-10 mb-2">
                 <h5 class="feature-title font-bold mb-1">WordPress</h5>
-                <p class="grey-text mt-2">MDB fully supports Flex Box. You can forget about alignment issues.</p>
+                <p class="grey-text mt-2">
+                  I own my <strong>WordPress</strong> blog for my hobbies. I can setup WordPress and edit templates.
+                </p>
               </div>
             </div>
           </div>
@@ -294,7 +290,7 @@
               </div>
               <div class="col-10 mb-2">
                 <h5 class="feature-title font-bold mb-1">Amazon Web Services</h5>
-                <p class="grey-text mt-2">Arranged and well documented .scss files can't wait until you compile them.</p>
+                <p class="grey-text mt-2">My wordpress blog is hosted on <strong>Amazon LightSail</strong>.</p>
               </div>
             </div>
           </div>
@@ -308,7 +304,12 @@
 </template>
 
 <style scoped>
-section {
+.h3 {
+  margin-top: 0 !important;
   padding-top: 48px;
+}
+.grey-text strong {
+  color: #4497e2;
+  font-weight: normal;
 }
 </style>
