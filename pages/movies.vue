@@ -14,6 +14,7 @@
 <script>
 import Movie from "@/components/movie.vue"
 export default {
+  layout: 'index',
   components: {
     Movie,
   },
@@ -49,6 +50,10 @@ export default {
 <style>
 .movie-list {
   display: flex;
+  padding-top: 85px;
+  background-color: rgba(0, 0, 0, .9);
+  min-height: calc(100vh - 53px);
+  margin-bottom: -24px;
 }
 .movie {
   width: 150px;
@@ -62,8 +67,12 @@ export default {
 }
 .movie .title {
   text-align: center;
-  font-size: 1.4rem;
+  font-size: 14px ;
   text-transform: uppercase;
+}
+
+body {
+  color: rgba(255, 255, 255, .7);
 }
 
 </style>

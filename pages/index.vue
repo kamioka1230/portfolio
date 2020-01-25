@@ -1,20 +1,23 @@
 <template>
-<div>
-  <div class="main">
-    <span>Hi, I'm Yd.</span>
-  </div>
+  <div>
+    <Cover />
+    <Main />
 </div>
 </template>
 
-<style>
-.main {
-  width: 75%;
-  text-align: center;
-  margin: 0 auto;
-  padding-top: 35vh;
+<script>
+import Main from "@/components/main.vue";
+import Cover from "@/components/cover.vue";
+export default {
+  layout: 'index',
+  components: {
+    Main, Cover,
+  }
 }
-.main span {
-  font-size: 2.8rem;
-  font-weight: 700;
+</script>
+
+<style>
+.rgba-black-light, .rgba-black-light:after {
+  background-color: rgba(0,0,0,0.7);
 }
 </style>
